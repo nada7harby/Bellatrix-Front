@@ -29,8 +29,8 @@ function App() {
         {/* Add more solution routes as needed, all handled by SolutionMain */}
         {/* <Route path="/hr" element={<HRPage />} /> */}
         <Route path="/Payroll" element={<PayrollPage />} />
-        <Route path="/manufacturing" element={<Manufacturing />} />
-        <Route path="/retail" element={<Retail />} />
+        <Route path="/industries/manufacturing" element={<Manufacturing />} />
+        <Route path="/industries/retail" element={<Retail />} />
 
         {/* 
         <Route path="Support" element={<Support />} />
