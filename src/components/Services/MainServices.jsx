@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import Implementation from "../Services/Implementation/Implementation";
-import Training from "../Services/Training/Training";
+import Training from "../Services/Training/Training.jsx";
 import Support from "../Support/Support";
 import Customization from "../Services/Customization/Customization";
 import IntegrationMain from "../Services/Integration/IntegrationMain";
