@@ -251,46 +251,5 @@
       "blueGradient": "linear-gradient(135deg, #2563eb 0%, #60a5fa 100%)",
       "glassBg": "rgba(255,255,255,0.7)"
     }
-  },
-  "solutions": {
-    "solutions": [
-      {
-        "title": "NetSuite Implementation",
-        "description": "Complete NetSuite deployment and configuration solutions for your business"
-      },
-      {
-        "title": "Custom Development",
-        "description": "Tailored software solutions designed to meet your unique business requirements"
-      },
-      {
-        "title": "System Integration",
-        "description": "Seamless integration between NetSuite and your existing business systems"
-      },
-      {
-        "title": "Training & Support",
-        "description": "Comprehensive training programs and ongoing technical support services"
-      },
-      {
-        "title": "Data Migration",
-        "description": "Secure and efficient migration of your business data to NetSuite"
-      },
-      {
-        "title": "Process Optimization",
-        "description": "Business process improvement and workflow automation solutions"
-      },
-      {
-        "title": "Cloud Solutions",
-        "description": "Modern cloud-based infrastructure and scalable solution architecture"
-      },
-      {
-        "title": "Business Intelligence",
-        "description": "Advanced analytics and reporting solutions for data-driven decisions"
-      }
-    ],
-    "sectionHeader": {
-      "title": "Our Solution Portfolio",
-      "subtitle": "Comprehensive solutions designed to transform your business operations",
-      "gradientText": "Solution Portfolio"
-    }
   }
 }
